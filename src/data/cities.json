@@ -1,0 +1,452 @@
+[
+    {
+      "id": 1,
+      "name": "Москва",
+      "area": "Московская область",
+      "coordinates": {
+        "latitude": 55.7558,
+        "longitude": 37.6176
+      }
+    },
+    {
+      "id": 2,
+      "name": "Санкт-Петербург",
+      "area": "Ленинградская область",
+      "coordinates": {
+        "latitude": 59.9386,
+        "longitude": 30.3141
+      }
+    },
+    {
+      "id": 3,
+      "name": "Новосибирск",
+      "area": "Новосибирская область",
+      "coordinates": {
+        "latitude": 55.0084,
+        "longitude": 82.9357
+      }
+    },
+    {
+      "id": 4,
+      "name": "Екатеринбург",
+      "area": "Свердловская область",
+      "coordinates": {
+        "latitude": 56.8575,
+        "longitude": 60.6125
+      }
+    },
+    {
+      "id": 5,
+      "name": "Казань",
+      "area": "Республика Татарстан",
+      "coordinates": {
+        "latitude": 55.7961,
+        "longitude": 49.1064
+      }
+    },
+    {
+      "id": 6,
+      "name": "Нижний Новгород",
+      "area": "Нижегородская область",
+      "coordinates": {
+        "latitude": 56.2965,
+        "longitude": 43.9361
+      }
+    },
+    {
+      "id": 7,
+      "name": "Челябинск",
+      "area": "Челябинская область",
+      "coordinates": {
+        "latitude": 55.1644,
+        "longitude": 61.4368
+      }
+    },
+    {
+      "id": 8,
+      "name": "Самара",
+      "area": "Самарская область",
+      "coordinates": {
+        "latitude": 53.1959,
+        "longitude": 50.1002
+      }
+    },
+    {
+      "id": 9,
+      "name": "Омск",
+      "area": "Омская область",
+      "coordinates": {
+        "latitude": 54.9914,
+        "longitude": 73.3645
+      }
+    },
+    {
+      "id": 10,
+      "name": "Ростов-на-Дону",
+      "area": "Ростовская область",
+      "coordinates": {
+        "latitude": 47.2357,
+        "longitude": 39.7015
+      }
+    },
+    {
+      "id": 11,
+      "name": "Уфа",
+      "area": "Республика Башкортостан",
+      "coordinates": {
+        "latitude": 54.7388,
+        "longitude": 55.9721
+      }
+    },
+    {
+      "id": 12,
+      "name": "Красноярск",
+      "area": "Красноярский край",
+      "coordinates": {
+        "latitude": 56.0184,
+        "longitude": 92.8672
+      }
+    },
+    {
+      "id": 13,
+      "name": "Пермь",
+      "area": "Пермский край",
+      "coordinates": {
+        "latitude": 58.0105,
+        "longitude": 56.2502
+      }
+    },
+    {
+      "id": 14,
+      "name": "Воронеж",
+      "area": "Воронежская область",
+      "coordinates": {
+        "latitude": 51.672,
+        "longitude": 39.1843
+      }
+    },
+    {
+      "id": 15,
+      "name": "Волгоград",
+      "area": "Волгоградская область",
+      "coordinates": {
+        "latitude": 48.7071,
+        "longitude": 44.5169
+      }
+    },
+    {
+      "id": 16,
+      "name": "Краснодар",
+      "area": "Краснодарский край",
+      "coordinates": {
+        "latitude": 45.0355,
+        "longitude": 38.9753
+      }
+    },
+    {
+      "id": 17,
+      "name": "Саратов",
+      "area": "Саратовская область",
+      "coordinates": {
+        "latitude": 51.5924,
+        "longitude": 45.9608
+      }
+    },
+    {
+      "id": 18,
+      "name": "Тюмень",
+      "area": "Тюменская область",
+      "coordinates": {
+        "latitude": 57.153,
+        "longitude": 65.5343
+      }
+    },
+    {
+      "id": 19,
+      "name": "Тольятти",
+      "area": "Самарская область",
+      "coordinates": {
+        "latitude": 53.5078,
+        "longitude": 49.4204
+      }
+    },
+    {
+      "id": 20,
+      "name": "Ижевск",
+      "area": "Удмуртская Республика",
+      "coordinates": {
+        "latitude": 56.8527,
+        "longitude": 53.2115
+      }
+    },
+    {
+      "id": 21,
+      "name": "Барнаул",
+      "area": "Алтайский край",
+      "coordinates": {
+        "latitude": 53.3561,
+        "longitude": 83.7646
+      }
+    },
+    {
+      "id": 22,
+      "name": "Ульяновск",
+      "area": "Ульяновская область",
+      "coordinates": {
+        "latitude": 54.3142,
+        "longitude": 48.4032
+      }
+    },
+    {
+      "id": 23,
+      "name": "Иркутск",
+      "area": "Иркутская область",
+      "coordinates": {
+        "latitude": 52.2896,
+        "longitude": 104.2806
+      }
+    },
+    {
+      "id": 24,
+      "name": "Хабаровск",
+      "area": "Хабаровский край",
+      "coordinates": {
+        "latitude": 48.4802,
+        "longitude": 135.0719
+      }
+    },
+    {
+      "id": 25,
+      "name": "Ярославль",
+      "area": "Ярославская область",
+      "coordinates": {
+        "latitude": 57.6261,
+        "longitude": 39.8845
+      }
+    },
+    {
+      "id": 26,
+      "name": "Владивосток",
+      "area": "Приморский край",
+      "coordinates": {
+        "latitude": 43.1155,
+        "longitude": 131.8855
+      }
+    },
+    {
+      "id": 27,
+      "name": "Махачкала",
+      "area": "Республика Дагестан",
+      "coordinates": {
+        "latitude": 42.9849,
+        "longitude": 47.5047
+      }
+    },
+    {
+      "id": 28,
+      "name": "Томск",
+      "area": "Томская область",
+      "coordinates": {
+        "latitude": 56.4846,
+        "longitude": 84.9476
+      }
+    },
+    {
+      "id": 29,
+      "name": "Оренбург",
+      "area": "Оренбургская область",
+      "coordinates": {
+        "latitude": 51.7682,
+        "longitude": 55.097
+      }
+    },
+    {
+      "id": 30,
+      "name": "Кемерово",
+      "area": "Кемеровская область",
+      "coordinates": {
+        "latitude": 55.3547,
+        "longitude": 86.0873
+      }
+    },
+    {
+      "id": 31,
+      "name": "Новокузнецк",
+      "area": "Кемеровская область",
+      "coordinates": {
+        "latitude": 53.7865,
+        "longitude": 87.1552
+      }
+    },
+    {
+      "id": 32,
+      "name": "Рязань",
+      "area": "Рязанская область",
+      "coordinates": {
+        "latitude": 54.6294,
+        "longitude": 39.7417
+      }
+    },
+    {
+      "id": 33,
+      "name": "Астрахань",
+      "area": "Астраханская область",
+      "coordinates": {
+        "latitude": 46.3479,
+        "longitude": 48.0336
+      }
+    },
+    {
+      "id": 34,
+      "name": "Пенза",
+      "area": "Пензенская область",
+      "coordinates": {
+        "latitude": 53.195,
+        "longitude": 45.0183
+      }
+    },
+    {
+      "id": 35,
+      "name": "Липецк",
+      "area": "Липецкая область",
+      "coordinates": {
+        "latitude": 52.6088,
+        "longitude": 39.5992
+      }
+    },
+    {
+      "id": 36,
+      "name": "Киров",
+      "area": "Кировская область",
+      "coordinates": {
+        "latitude": 58.6036,
+        "longitude": 49.668
+      }
+    },
+    {
+      "id": 37,
+      "name": "Чебоксары",
+      "area": "Чувашская Республика",
+      "coordinates": {
+        "latitude": 56.1439,
+        "longitude": 47.2489
+      }
+    },
+    {
+      "id": 38,
+      "name": "Тула",
+      "area": "Тульская область",
+      "coordinates": {
+        "latitude": 54.193,
+        "longitude": 37.6178
+      }
+    },
+    {
+      "id": 39,
+      "name": "Калининград",
+      "area": "Калининградская область",
+      "coordinates": {
+        "latitude": 54.7104,
+        "longitude": 20.4522
+      }
+    },
+    {
+      "id": 40,
+      "name": "Брянск",
+      "area": "Брянская область",
+      "coordinates": {
+        "latitude": 53.2434,
+        "longitude": 34.3642
+      }
+    },
+    {
+      "id": 41,
+      "name": "Курск",
+      "area": "Курская область",
+      "coordinates": {
+        "latitude": 51.7304,
+        "longitude": 36.1926
+      }
+    },
+    {
+      "id": 42,
+      "name": "Иваново",
+      "area": "Ивановская область",
+      "coordinates": {
+        "latitude": 57.0004,
+        "longitude": 40.9739
+      }
+    },
+    {
+      "id": 43,
+      "name": "Магнитогорск",
+      "area": "Челябинская область",
+      "coordinates": {
+        "latitude": 53.4071,
+        "longitude": 58.979
+      }
+    },
+    {
+      "id": 44,
+      "name": "Тверь",
+      "area": "Тверская область",
+      "coordinates": {
+        "latitude": 56.8587,
+        "longitude": 35.9176
+      }
+    },
+    {
+      "id": 45,
+      "name": "Ставрополь",
+      "area": "Ставропольский край",
+      "coordinates": {
+        "latitude": 45.0445,
+        "longitude": 41.9691
+      }
+    },
+    {
+      "id": 46,
+      "name": "Белгород",
+      "area": "Белгородская область",
+      "coordinates": {
+        "latitude": 50.5953,
+        "longitude": 36.5873
+      }
+    },
+    {
+      "id": 47,
+      "name": "Архангельск",
+      "area": "Архангельская область",
+      "coordinates": {
+        "latitude": 64.5393,
+        "longitude": 40.5187
+      }
+    },
+    {
+      "id": 48,
+      "name": "Владимир",
+      "area": "Владимирская область",
+      "coordinates": {
+        "latitude": 56.129,
+        "longitude": 40.407
+      }
+    },
+    {
+      "id": 49,
+      "name": "Севастополь",
+      "area": "Город федерального значения",
+      "coordinates": {
+        "latitude": 44.6167,
+        "longitude": 33.5254
+      }
+    },
+    {
+      "id": 50,
+      "name": "Сочи",
+      "area": "Краснодарский край",
+      "coordinates": {
+        "latitude": 43.5855,
+        "longitude": 39.7231
+      }
+    }
+  ]
