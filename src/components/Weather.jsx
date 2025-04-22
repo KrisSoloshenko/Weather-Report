@@ -5,7 +5,7 @@ import { Table } from 'react-bootstrap';
 import "../styles/weather.css";
 
 function Weather(props) {
-    const apiKey = '7660fa1408c6b34dfad79c7b94d8ee11';
+    const apiKey = 'API KEY';
     const [weatherData, setWeatherData] = React.useState(null);
     const [loading, setLoading] = React.useState(true);
     const [error, setError] = React.useState(null)
